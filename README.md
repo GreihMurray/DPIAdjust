@@ -8,3 +8,5 @@ Has not been tested with negative inputs
 Has not been tested for gaming so it may or may not work for that
 
 Higher modifiers tend to result in chunkier mouse movement though this can be offset to a degree with lower wait times
+
+Execution can be halted to pressing ctrl + q at anytime (May need to hold the buttons for a bit so the program can register it properly)
